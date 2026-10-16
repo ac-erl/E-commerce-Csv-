@@ -1,0 +1,201 @@
+Transaction_ID,Order_Item_ID,Customer_Name,Customer_Email,Product_Name,Product_Category,Quantity,Unit_Price_USD,Total_Amount_USD,Payment_Method,Order_Status,Order_Timestamp
+TXN-00001,ITEM-00001,Amina Bello,amina.bello1@example.com,Wireless Mouse,Electronics,1,24.99,24.99,Credit Card,Completed,2026-01-01 12:15:00
+TXN-00002,ITEM-00002,David Okoro,david.okoro2@example.com,Mechanical Keyboard,Electronics,2,79.99,159.98,Debit Card,Completed,2026-01-02 15:15:00
+TXN-00003,ITEM-00003,Chioma Eze,chioma.eze3@example.com,USB-C Charger,Electronics,3,19.99,59.97,PayPal,Completed,2026-01-03 00:15:00
+TXN-00004,ITEM-00004,Tunde Adeyemi,tunde.adeyemi4@example.com,Laptop Stand,Office,2,34.99,69.98,Bank Transfer,Pending,2026-01-03 22:15:00
+TXN-00005,ITEM-00005,Fatima Musa,fatima.musa5@example.com,Notebook,Stationery,1,8.5,8.5,Apple Pay,Cancelled,2026-01-04 18:15:00
+TXN-00006,ITEM-00006,Daniel Johnson,daniel.johnson6@example.com,Desk Lamp,Office,4,29.99,119.96,Credit Card,Shipped,2026-01-05 16:15:00
+TXN-00007,ITEM-00007,Ada Nwosu,ada.nwosu7@example.com,Water Bottle,Home,4,15.0,60.0,Debit Card,Completed,2026-01-06 09:15:00
+TXN-00008,ITEM-00008,Ibrahim Sani,ibrahim.sani8@example.com,Backpack,Accessories,5,49.99,249.95,PayPal,Completed,2026-01-07 04:15:00
+TXN-00009,ITEM-00009,Grace Williams,grace.williams9@example.com,Bluetooth Speaker,Electronics,3,59.99,179.97,Bank Transfer,Completed,2026-01-08 04:15:00
+TXN-00010,ITEM-00010,Emeka Obi,emeka.obi10@example.com,Phone Case,Accessories,4,12.99,51.96,Apple Pay,Pending,2026-01-08 20:15:00
+TXN-00011,ITEM-00011,Sarah Adams,sarah.adams11@example.com,Running Shoes,Fashion,1,89.99,89.99,Credit Card,Cancelled,2026-01-09 17:15:00
+TXN-00012,ITEM-00012,Yusuf Ibrahim,yusuf.ibrahim12@example.com,Cotton T-Shirt,Fashion,3,22.5,67.5,Debit Card,Shipped,2026-01-10 02:15:00
+TXN-00013,ITEM-00013,Blessing Okafor,blessing.okafor13@example.com,Coffee Mug,Home,2,11.99,23.98,PayPal,Completed,2026-01-11 05:15:00
+TXN-00014,ITEM-00014,Michael Brown,michael.brown14@example.com,Power Bank,Electronics,1,39.99,39.99,Bank Transfer,Completed,2026-01-12 01:15:00
+TXN-00015,ITEM-00015,Zainab Ali,zainab.ali15@example.com,Sunglasses,Accessories,4,45.0,180.0,Apple Pay,Completed,2026-01-12 14:15:00
+TXN-00016,ITEM-00016,Chinedu Umeh,chinedu.umeh16@example.com,Desk Organizer,Office,1,18.75,18.75,Credit Card,Pending,2026-01-13 12:15:00
+TXN-00017,ITEM-00017,Mary Thomas,mary.thomas17@example.com,Pen Set,Stationery,2,6.99,13.98,Debit Card,Cancelled,2026-01-14 02:15:00
+TXN-00018,ITEM-00018,Samuel Carter,samuel.carter18@example.com,Headphones,Electronics,5,69.99,349.95,PayPal,Shipped,2026-01-15 06:15:00
+TXN-00019,ITEM-00019,Halima Abdullahi,halima.abdullahi19@example.com,Travel Pillow,Travel,4,27.5,110.0,Bank Transfer,Completed,2026-01-15 18:15:00
+TXN-00020,ITEM-00020,Peter James,peter.james20@example.com,LED Strip Lights,Home,2,21.99,43.98,Apple Pay,Completed,2026-01-16 22:15:00
+TXN-00021,ITEM-00021,Ngozi Eze,ngozi.eze21@example.com,Wireless Mouse,Electronics,2,24.99,49.98,Credit Card,Completed,2026-01-17 11:15:00
+TXN-00022,ITEM-00022,Ahmed Lawal,ahmed.lawal22@example.com,Mechanical Keyboard,Electronics,2,79.99,159.98,Debit Card,Pending,2026-01-18 04:15:00
+TXN-00023,ITEM-00023,Victoria Smith,victoria.smith23@example.com,USB-C Charger,Electronics,3,19.99,59.97,PayPal,Cancelled,2026-01-18 19:15:00
+TXN-00024,ITEM-00024,Kelvin Obi,kelvin.obi24@example.com,Laptop Stand,Office,1,34.99,34.99,Bank Transfer,Shipped,2026-01-19 20:15:00
+TXN-00025,ITEM-00025,Aisha Mohammed,aisha.mohammed25@example.com,Notebook,Stationery,3,8.5,25.5,Apple Pay,Completed,2026-01-20 14:15:00
+TXN-00026,ITEM-00026,John Williams,john.williams26@example.com,Desk Lamp,Office,3,29.99,89.97,Credit Card,Completed,2026-01-21 13:15:00
+TXN-00027,ITEM-00027,Esther Okoro,esther.okoro27@example.com,Water Bottle,Home,2,15.0,30.0,Debit Card,Completed,2026-01-22 02:15:00
+TXN-00028,ITEM-00028,Musa Bello,musa.bello28@example.com,Backpack,Accessories,4,49.99,199.96,PayPal,Pending,2026-01-22 20:15:00
+TXN-00029,ITEM-00029,Joy Udo,joy.udo29@example.com,Bluetooth Speaker,Electronics,2,59.99,119.98,Bank Transfer,Cancelled,2026-01-23 16:15:00
+TXN-00030,ITEM-00030,Brian Anderson,brian.anderson30@example.com,Phone Case,Accessories,3,12.99,38.97,Apple Pay,Shipped,2026-01-24 16:15:00
+TXN-00031,ITEM-00031,Ruth Johnson,ruth.johnson31@example.com,Running Shoes,Fashion,2,89.99,179.98,Credit Card,Completed,2026-01-25 10:15:00
+TXN-00032,ITEM-00032,Suleiman Garba,suleiman.garba32@example.com,Cotton T-Shirt,Fashion,2,22.5,45.0,Debit Card,Completed,2026-01-26 02:15:00
+TXN-00033,ITEM-00033,Linda Brown,linda.brown33@example.com,Coffee Mug,Home,2,11.99,23.98,PayPal,Completed,2026-01-27 04:15:00
+TXN-00034,ITEM-00034,Frank Eze,frank.eze34@example.com,Power Bank,Electronics,4,39.99,159.96,Bank Transfer,Pending,2026-01-27 19:15:00
+TXN-00035,ITEM-00035,Hauwa Sani,hauwa.sani35@example.com,Sunglasses,Accessories,5,45.0,225.0,Apple Pay,Cancelled,2026-01-28 16:15:00
+TXN-00036,ITEM-00036,Anthony Davis,anthony.davis36@example.com,Desk Organizer,Office,1,18.75,18.75,Credit Card,Shipped,2026-01-29 08:15:00
+TXN-00037,ITEM-00037,Janet Okafor,janet.okafor37@example.com,Pen Set,Stationery,1,6.99,6.99,Debit Card,Completed,2026-01-30 01:15:00
+TXN-00038,ITEM-00038,Bashir Musa,bashir.musa38@example.com,Headphones,Electronics,1,69.99,69.99,PayPal,Completed,2026-01-31 03:15:00
+TXN-00039,ITEM-00039,Deborah Adams,deborah.adams39@example.com,Travel Pillow,Travel,3,27.5,82.5,Bank Transfer,Completed,2026-01-31 15:15:00
+TXN-00040,ITEM-00040,Victor Nnamdi,victor.nnamdi40@example.com,LED Strip Lights,Home,3,21.99,65.97,Apple Pay,Pending,2026-02-01 10:15:00
+TXN-00041,ITEM-00041,Rose Adekunle,rose.adekunle41@example.com,Wireless Mouse,Electronics,2,24.99,49.98,Credit Card,Cancelled,2026-02-02 02:15:00
+TXN-00042,ITEM-00042,Usman Ibrahim,usman.ibrahim42@example.com,Mechanical Keyboard,Electronics,5,79.99,399.95,Debit Card,Shipped,2026-02-03 02:15:00
+TXN-00043,ITEM-00043,Caroline Smith,caroline.smith43@example.com,USB-C Charger,Electronics,4,19.99,79.96,PayPal,Completed,2026-02-03 22:15:00
+TXN-00044,ITEM-00044,George Obi,george.obi44@example.com,Laptop Stand,Office,4,34.99,139.96,Bank Transfer,Completed,2026-02-04 11:15:00
+TXN-00045,ITEM-00045,Maryam Yusuf,maryam.yusuf45@example.com,Notebook,Stationery,4,8.5,34.0,Apple Pay,Completed,2026-02-05 09:15:00
+TXN-00046,ITEM-00046,Henry Carter,henry.carter46@example.com,Desk Lamp,Office,5,29.99,149.95,Credit Card,Pending,2026-02-06 05:15:00
+TXN-00047,ITEM-00047,Ifeoma Nwankwo,ifeoma.nwankwo47@example.com,Water Bottle,Home,1,15.0,15.0,Debit Card,Cancelled,2026-02-06 23:15:00
+TXN-00048,ITEM-00048,Abubakar Bello,abubakar.bello48@example.com,Backpack,Accessories,2,49.99,99.98,PayPal,Shipped,2026-02-07 20:15:00
+TXN-00049,ITEM-00049,Sharon Williams,sharon.williams49@example.com,Bluetooth Speaker,Electronics,5,59.99,299.95,Bank Transfer,Completed,2026-02-08 15:15:00
+TXN-00050,ITEM-00050,Kelvin James,kelvin.james50@example.com,Phone Case,Accessories,4,12.99,51.96,Apple Pay,Completed,2026-02-09 13:15:00
+TXN-00051,ITEM-00051,Hadiza Lawal,hadiza.lawal51@example.com,Running Shoes,Fashion,2,89.99,179.98,Credit Card,Completed,2026-02-10 09:15:00
+TXN-00052,ITEM-00052,Robert Brown,robert.brown52@example.com,Cotton T-Shirt,Fashion,3,22.5,67.5,Debit Card,Pending,2026-02-10 18:15:00
+TXN-00053,ITEM-00053,Nneka Okeke,nneka.okeke53@example.com,Coffee Mug,Home,2,11.99,23.98,PayPal,Cancelled,2026-02-12 01:15:00
+TXN-00054,ITEM-00054,Sadiq Ali,sadiq.ali54@example.com,Power Bank,Electronics,3,39.99,119.97,Bank Transfer,Shipped,2026-02-12 14:15:00
+TXN-00055,ITEM-00055,Angela Thomas,angela.thomas55@example.com,Sunglasses,Accessories,3,45.0,135.0,Apple Pay,Completed,2026-02-13 14:15:00
+TXN-00056,ITEM-00056,Chukwuemeka Eze,chukwuemeka.eze56@example.com,Desk Organizer,Office,3,18.75,56.25,Credit Card,Completed,2026-02-14 06:15:00
+TXN-00057,ITEM-00057,Mariam Abdullahi,mariam.abdullahi57@example.com,Pen Set,Stationery,1,6.99,6.99,Debit Card,Completed,2026-02-14 17:15:00
+TXN-00058,ITEM-00058,Stephen Johnson,stephen.johnson58@example.com,Headphones,Electronics,3,69.99,209.97,PayPal,Pending,2026-02-15 23:15:00
+TXN-00059,ITEM-00059,Peace Nwosu,peace.nwosu59@example.com,Travel Pillow,Travel,2,27.5,55.0,Bank Transfer,Cancelled,2026-02-16 14:15:00
+TXN-00060,ITEM-00060,Oluwaseun Adeyemi,oluwaseun.adeyemi60@example.com,LED Strip Lights,Home,3,21.99,65.97,Apple Pay,Shipped,2026-02-17 09:15:00
+TXN-00061,ITEM-00061,Rebecca Okoro,rebecca.okoro61@example.com,Wireless Mouse,Electronics,5,24.99,124.95,Credit Card,Completed,2026-02-18 01:15:00
+TXN-00062,ITEM-00062,Ismail Musa,ismail.musa62@example.com,Mechanical Keyboard,Electronics,5,79.99,399.95,Debit Card,Completed,2026-02-18 22:15:00
+TXN-00063,ITEM-00063,Patricia Adams,patricia.adams63@example.com,USB-C Charger,Electronics,3,19.99,59.97,PayPal,Completed,2026-02-19 21:15:00
+TXN-00064,ITEM-00064,Emmanuel Obi,emmanuel.obi64@example.com,Laptop Stand,Office,4,34.99,139.96,Bank Transfer,Pending,2026-02-20 09:15:00
+TXN-00065,ITEM-00065,Khadija Sani,khadija.sani65@example.com,Notebook,Stationery,2,8.5,17.0,Apple Pay,Cancelled,2026-02-21 03:15:00
+TXN-00066,ITEM-00066,Andrew Williams,andrew.williams66@example.com,Desk Lamp,Office,5,29.99,149.95,Credit Card,Shipped,2026-02-21 23:15:00
+TXN-00067,ITEM-00067,Amaka Eze,amaka.eze67@example.com,Water Bottle,Home,3,15.0,45.0,Debit Card,Completed,2026-02-22 22:15:00
+TXN-00068,ITEM-00068,Abdullahi Bello,abdullahi.bello68@example.com,Backpack,Accessories,5,49.99,249.95,PayPal,Completed,2026-02-23 20:15:00
+TXN-00069,ITEM-00069,Susan Carter,susan.carter69@example.com,Bluetooth Speaker,Electronics,4,59.99,239.96,Bank Transfer,Completed,2026-02-24 05:15:00
+TXN-00070,ITEM-00070,Uche Okafor,uche.okafor70@example.com,Phone Case,Accessories,1,12.99,12.99,Apple Pay,Pending,2026-02-25 08:15:00
+TXN-00071,ITEM-00071,Mohammed Lawal,mohammed.lawal71@example.com,Running Shoes,Fashion,1,89.99,89.99,Credit Card,Cancelled,2026-02-26 04:15:00
+TXN-00072,ITEM-00072,Helen Brown,helen.brown72@example.com,Cotton T-Shirt,Fashion,5,22.5,112.5,Debit Card,Shipped,2026-02-26 18:15:00
+TXN-00073,ITEM-00073,Ikenna Nwosu,ikenna.nwosu73@example.com,Coffee Mug,Home,2,11.99,23.98,PayPal,Completed,2026-02-27 16:15:00
+TXN-00074,ITEM-00074,Safiya Ali,safiya.ali74@example.com,Power Bank,Electronics,2,39.99,79.98,Bank Transfer,Completed,2026-02-28 14:15:00
+TXN-00075,ITEM-00075,Chris Thomas,chris.thomas75@example.com,Sunglasses,Accessories,4,45.0,180.0,Apple Pay,Completed,2026-03-01 00:15:00
+TXN-00076,ITEM-00076,Adaeze Obi,adaeze.obi76@example.com,Desk Organizer,Office,4,18.75,75.0,Credit Card,Pending,2026-03-01 21:15:00
+TXN-00077,ITEM-00077,Murtala Yusuf,murtala.yusuf77@example.com,Pen Set,Stationery,3,6.99,20.97,Debit Card,Cancelled,2026-03-02 16:15:00
+TXN-00078,ITEM-00078,Jennifer Smith,jennifer.smith78@example.com,Headphones,Electronics,5,69.99,349.95,PayPal,Shipped,2026-03-03 08:15:00
+TXN-00079,ITEM-00079,Kingsley Eze,kingsley.eze79@example.com,Travel Pillow,Travel,2,27.5,55.0,Bank Transfer,Completed,2026-03-04 10:15:00
+TXN-00080,ITEM-00080,Amina Abdullahi,amina.abdullahi80@example.com,LED Strip Lights,Home,5,21.99,109.95,Apple Pay,Completed,2026-03-05 05:15:00
+TXN-00081,ITEM-00081,David Bello,david.bello81@example.com,Wireless Mouse,Electronics,5,24.99,124.95,Credit Card,Completed,2026-03-06 05:15:00
+TXN-00082,ITEM-00082,Chiamaka Okoro,chiamaka.okoro82@example.com,Mechanical Keyboard,Electronics,2,79.99,159.98,Debit Card,Pending,2026-03-07 00:15:00
+TXN-00083,ITEM-00083,Tahir Musa,tahir.musa83@example.com,USB-C Charger,Electronics,4,19.99,79.96,PayPal,Cancelled,2026-03-07 07:15:00
+TXN-00084,ITEM-00084,Grace Nwosu,grace.nwosu84@example.com,Laptop Stand,Office,3,34.99,104.97,Bank Transfer,Shipped,2026-03-08 09:15:00
+TXN-00085,ITEM-00085,Daniel Adeyemi,daniel.adeyemi85@example.com,Notebook,Stationery,3,8.5,25.5,Apple Pay,Completed,2026-03-08 22:15:00
+TXN-00086,ITEM-00086,Fatima Lawal,fatima.lawal86@example.com,Desk Lamp,Office,4,29.99,119.96,Credit Card,Completed,2026-03-09 21:15:00
+TXN-00087,ITEM-00087,Michael Obi,michael.obi87@example.com,Water Bottle,Home,4,15.0,60.0,Debit Card,Completed,2026-03-10 19:15:00
+TXN-00088,ITEM-00088,Ngozi Sani,ngozi.sani88@example.com,Backpack,Accessories,4,49.99,199.96,PayPal,Pending,2026-03-11 11:15:00
+TXN-00089,ITEM-00089,Samuel Williams,samuel.williams89@example.com,Bluetooth Speaker,Electronics,1,59.99,59.99,Bank Transfer,Cancelled,2026-03-12 01:15:00
+TXN-00090,ITEM-00090,Zainab Brown,zainab.brown90@example.com,Phone Case,Accessories,2,12.99,25.98,Apple Pay,Shipped,2026-03-13 02:15:00
+TXN-00091,ITEM-00091,Emeka Carter,emeka.carter91@example.com,Running Shoes,Fashion,2,89.99,179.98,Credit Card,Completed,2026-03-13 15:15:00
+TXN-00092,ITEM-00092,Sarah Ali,sarah.ali92@example.com,Cotton T-Shirt,Fashion,1,22.5,22.5,Debit Card,Completed,2026-03-14 22:15:00
+TXN-00093,ITEM-00093,Yusuf Thomas,yusuf.thomas93@example.com,Coffee Mug,Home,5,11.99,59.95,PayPal,Completed,2026-03-15 16:15:00
+TXN-00094,ITEM-00094,Blessing Adams,blessing.adams94@example.com,Power Bank,Electronics,1,39.99,39.99,Bank Transfer,Pending,2026-03-16 10:15:00
+TXN-00095,ITEM-00095,John Okafor,john.okafor95@example.com,Sunglasses,Accessories,3,45.0,135.0,Apple Pay,Cancelled,2026-03-17 06:15:00
+TXN-00096,ITEM-00096,Victoria Eze,victoria.eze96@example.com,Desk Organizer,Office,3,18.75,56.25,Credit Card,Shipped,2026-03-17 14:15:00
+TXN-00097,ITEM-00097,Ibrahim Nwosu,ibrahim.nwosu97@example.com,Pen Set,Stationery,5,6.99,34.95,Debit Card,Completed,2026-03-18 10:15:00
+TXN-00098,ITEM-00098,Joy Bello,joy.bello98@example.com,Headphones,Electronics,4,69.99,279.96,PayPal,Completed,2026-03-19 12:15:00
+TXN-00099,ITEM-00099,Peter Sani,peter.sani99@example.com,Travel Pillow,Travel,2,27.5,55.0,Bank Transfer,Completed,2026-03-20 10:15:00
+TXN-00100,ITEM-00100,Halima Okoro,halima.okoro100@example.com,LED Strip Lights,Home,1,21.99,21.99,Apple Pay,Pending,2026-03-21 02:15:00
+TXN-00101,ITEM-00101,Brian Musa,brian.musa101@example.com,Wireless Mouse,Electronics,4,24.99,99.96,Credit Card,Cancelled,2026-03-21 14:15:00
+TXN-00102,ITEM-00102,Ruth Lawal,ruth.lawal102@example.com,Mechanical Keyboard,Electronics,1,79.99,79.99,Debit Card,Shipped,2026-03-22 13:15:00
+TXN-00103,ITEM-00103,Tunde Williams,tunde.williams103@example.com,USB-C Charger,Electronics,4,19.99,79.96,PayPal,Completed,2026-03-23 13:15:00
+TXN-00104,ITEM-00104,Linda Obi,linda.obi104@example.com,Laptop Stand,Office,1,34.99,34.99,Bank Transfer,Completed,2026-03-24 04:15:00
+TXN-00105,ITEM-00105,Frank Abdullahi,frank.abdullahi105@example.com,Notebook,Stationery,5,8.5,42.5,Apple Pay,Completed,2026-03-25 05:15:00
+TXN-00106,ITEM-00106,Rose Eze,rose.eze106@example.com,Desk Lamp,Office,2,29.99,59.98,Credit Card,Pending,2026-03-25 16:15:00
+TXN-00107,ITEM-00107,Usman Brown,usman.brown107@example.com,Water Bottle,Home,2,15.0,30.0,Debit Card,Cancelled,2026-03-26 09:15:00
+TXN-00108,ITEM-00108,Caroline Carter,caroline.carter108@example.com,Backpack,Accessories,5,49.99,249.95,PayPal,Shipped,2026-03-27 14:15:00
+TXN-00109,ITEM-00109,George Ali,george.ali109@example.com,Bluetooth Speaker,Electronics,5,59.99,299.95,Bank Transfer,Completed,2026-03-28 08:15:00
+TXN-00110,ITEM-00110,Maryam Thomas,maryam.thomas110@example.com,Phone Case,Accessories,3,12.99,38.97,Apple Pay,Completed,2026-03-29 00:15:00
+TXN-00111,ITEM-00111,Henry Adams,henry.adams111@example.com,Running Shoes,Fashion,5,89.99,449.95,Credit Card,Completed,2026-03-29 21:15:00
+TXN-00112,ITEM-00112,Ifeoma Okafor,ifeoma.okafor112@example.com,Cotton T-Shirt,Fashion,5,22.5,112.5,Debit Card,Pending,2026-03-30 16:15:00
+TXN-00113,ITEM-00113,Abubakar Eze,abubakar.eze113@example.com,Coffee Mug,Home,3,11.99,35.97,PayPal,Cancelled,2026-03-31 09:15:00
+TXN-00114,ITEM-00114,Sharon Nwosu,sharon.nwosu114@example.com,Power Bank,Electronics,1,39.99,39.99,Bank Transfer,Shipped,2026-04-01 02:15:00
+TXN-00115,ITEM-00115,Kelvin Bello,kelvin.bello115@example.com,Sunglasses,Accessories,4,45.0,180.0,Apple Pay,Completed,2026-04-01 23:15:00
+TXN-00116,ITEM-00116,Hadiza Sani,hadiza.sani116@example.com,Desk Organizer,Office,1,18.75,18.75,Credit Card,Completed,2026-04-02 15:15:00
+TXN-00117,ITEM-00117,Robert Lawal,robert.lawal117@example.com,Pen Set,Stationery,1,6.99,6.99,Debit Card,Completed,2026-04-03 13:15:00
+TXN-00118,ITEM-00118,Nneka Williams,nneka.williams118@example.com,Headphones,Electronics,5,69.99,349.95,PayPal,Pending,2026-04-04 01:15:00
+TXN-00119,ITEM-00119,Sadiq Obi,sadiq.obi119@example.com,Travel Pillow,Travel,5,27.5,137.5,Bank Transfer,Cancelled,2026-04-04 19:15:00
+TXN-00120,ITEM-00120,Angela Abdullahi,angela.abdullahi120@example.com,LED Strip Lights,Home,3,21.99,65.97,Apple Pay,Shipped,2026-04-05 15:15:00
+TXN-00121,ITEM-00121,Chukwuemeka Brown,chukwuemeka.brown121@example.com,Wireless Mouse,Electronics,2,24.99,49.98,Credit Card,Completed,2026-04-06 11:15:00
+TXN-00122,ITEM-00122,Mariam Carter,mariam.carter122@example.com,Mechanical Keyboard,Electronics,1,79.99,79.99,Debit Card,Completed,2026-04-07 11:15:00
+TXN-00123,ITEM-00123,Stephen Ali,stephen.ali123@example.com,USB-C Charger,Electronics,4,19.99,79.96,PayPal,Completed,2026-04-08 03:15:00
+TXN-00124,ITEM-00124,Peace Thomas,peace.thomas124@example.com,Laptop Stand,Office,1,34.99,34.99,Bank Transfer,Pending,2026-04-08 19:15:00
+TXN-00125,ITEM-00125,Oluwaseun Adams,oluwaseun.adams125@example.com,Notebook,Stationery,4,8.5,34.0,Apple Pay,Cancelled,2026-04-09 14:15:00
+TXN-00126,ITEM-00126,Rebecca Okafor,rebecca.okafor126@example.com,Desk Lamp,Office,5,29.99,149.95,Credit Card,Shipped,2026-04-10 10:15:00
+TXN-00127,ITEM-00127,Ismail Eze,ismail.eze127@example.com,Water Bottle,Home,4,15.0,60.0,Debit Card,Completed,2026-04-11 09:15:00
+TXN-00128,ITEM-00128,Patricia Nwosu,patricia.nwosu128@example.com,Backpack,Accessories,1,49.99,49.99,PayPal,Completed,2026-04-12 03:15:00
+TXN-00129,ITEM-00129,Emmanuel Bello,emmanuel.bello129@example.com,Bluetooth Speaker,Electronics,4,59.99,239.96,Bank Transfer,Completed,2026-04-13 04:15:00
+TXN-00130,ITEM-00130,Khadija Lawal,khadija.lawal130@example.com,Phone Case,Accessories,1,12.99,12.99,Apple Pay,Pending,2026-04-13 13:15:00
+TXN-00131,ITEM-00131,Andrew Obi,andrew.obi131@example.com,Running Shoes,Fashion,1,89.99,89.99,Credit Card,Cancelled,2026-04-14 08:15:00
+TXN-00132,ITEM-00132,Amaka Abdullahi,amaka.abdullahi132@example.com,Cotton T-Shirt,Fashion,5,22.5,112.5,Debit Card,Shipped,2026-04-15 11:15:00
+TXN-00133,ITEM-00133,Abdullahi Brown,abdullahi.brown133@example.com,Coffee Mug,Home,5,11.99,59.95,PayPal,Completed,2026-04-16 06:15:00
+TXN-00134,ITEM-00134,Susan Carter,susan.carter134@example.com,Power Bank,Electronics,1,39.99,39.99,Bank Transfer,Completed,2026-04-16 23:15:00
+TXN-00135,ITEM-00135,Uche Ali,uche.ali135@example.com,Sunglasses,Accessories,3,45.0,135.0,Apple Pay,Completed,2026-04-17 22:15:00
+TXN-00136,ITEM-00136,Mohammed Thomas,mohammed.thomas136@example.com,Desk Organizer,Office,3,18.75,56.25,Credit Card,Pending,2026-04-18 09:15:00
+TXN-00137,ITEM-00137,Helen Adams,helen.adams137@example.com,Pen Set,Stationery,5,6.99,34.95,Debit Card,Cancelled,2026-04-19 07:15:00
+TXN-00138,ITEM-00138,Ikenna Okafor,ikenna.okafor138@example.com,Headphones,Electronics,1,69.99,69.99,PayPal,Shipped,2026-04-19 22:15:00
+TXN-00139,ITEM-00139,Safiya Eze,safiya.eze139@example.com,Travel Pillow,Travel,2,27.5,55.0,Bank Transfer,Completed,2026-04-20 20:15:00
+TXN-00140,ITEM-00140,Chris Nwosu,chris.nwosu140@example.com,LED Strip Lights,Home,4,21.99,87.96,Apple Pay,Completed,2026-04-21 21:15:00
+TXN-00141,ITEM-00141,Adaeze Bello,adaeze.bello141@example.com,Wireless Mouse,Electronics,3,24.99,74.97,Credit Card,Completed,2026-04-22 12:15:00
+TXN-00142,ITEM-00142,Murtala Lawal,murtala.lawal142@example.com,Mechanical Keyboard,Electronics,1,79.99,79.99,Debit Card,Pending,2026-04-23 12:15:00
+TXN-00143,ITEM-00143,Jennifer Obi,jennifer.obi143@example.com,USB-C Charger,Electronics,2,19.99,39.98,PayPal,Cancelled,2026-04-23 23:15:00
+TXN-00144,ITEM-00144,Kingsley Abdullahi,kingsley.abdullahi144@example.com,Laptop Stand,Office,4,34.99,139.96,Bank Transfer,Shipped,2026-04-24 23:15:00
+TXN-00145,ITEM-00145,Amina Brown,amina.brown145@example.com,Notebook,Stationery,5,8.5,42.5,Apple Pay,Completed,2026-04-25 20:15:00
+TXN-00146,ITEM-00146,David Carter,david.carter146@example.com,Desk Lamp,Office,3,29.99,89.97,Credit Card,Completed,2026-04-26 14:15:00
+TXN-00147,ITEM-00147,Chiamaka Ali,chiamaka.ali147@example.com,Water Bottle,Home,1,15.0,15.0,Debit Card,Completed,2026-04-27 09:15:00
+TXN-00148,ITEM-00148,Tahir Thomas,tahir.thomas148@example.com,Backpack,Accessories,1,49.99,49.99,PayPal,Pending,2026-04-28 03:15:00
+TXN-00149,ITEM-00149,Grace Adams,grace.adams149@example.com,Bluetooth Speaker,Electronics,5,59.99,299.95,Bank Transfer,Cancelled,2026-04-28 18:15:00
+TXN-00150,ITEM-00150,Daniel Okafor,daniel.okafor150@example.com,Phone Case,Accessories,4,12.99,51.96,Apple Pay,Shipped,2026-04-29 12:15:00
+TXN-00151,ITEM-00151,Fatima Eze,fatima.eze151@example.com,Running Shoes,Fashion,3,89.99,269.97,Credit Card,Completed,2026-04-30 12:15:00
+TXN-00152,ITEM-00152,Michael Nwosu,michael.nwosu152@example.com,Cotton T-Shirt,Fashion,3,22.5,67.5,Debit Card,Completed,2026-05-01 09:15:00
+TXN-00153,ITEM-00153,Ngozi Bello,ngozi.bello153@example.com,Coffee Mug,Home,4,11.99,47.96,PayPal,Completed,2026-05-01 18:15:00
+TXN-00154,ITEM-00154,Samuel Lawal,samuel.lawal154@example.com,Power Bank,Electronics,3,39.99,119.97,Bank Transfer,Pending,2026-05-03 00:15:00
+TXN-00155,ITEM-00155,Zainab Obi,zainab.obi155@example.com,Sunglasses,Accessories,2,45.0,90.0,Apple Pay,Cancelled,2026-05-03 08:15:00
+TXN-00156,ITEM-00156,Emeka Abdullahi,emeka.abdullahi156@example.com,Desk Organizer,Office,5,18.75,93.75,Credit Card,Shipped,2026-05-04 03:15:00
+TXN-00157,ITEM-00157,Sarah Brown,sarah.brown157@example.com,Pen Set,Stationery,2,6.99,13.98,Debit Card,Completed,2026-05-05 02:15:00
+TXN-00158,ITEM-00158,Yusuf Carter,yusuf.carter158@example.com,Headphones,Electronics,1,69.99,69.99,PayPal,Completed,2026-05-05 23:15:00
+TXN-00159,ITEM-00159,Blessing Ali,blessing.ali159@example.com,Travel Pillow,Travel,4,27.5,110.0,Bank Transfer,Completed,2026-05-06 19:15:00
+TXN-00160,ITEM-00160,John Thomas,john.thomas160@example.com,LED Strip Lights,Home,5,21.99,109.95,Apple Pay,Pending,2026-05-07 08:15:00
+TXN-00161,ITEM-00161,Victoria Adams,victoria.adams161@example.com,Wireless Mouse,Electronics,4,24.99,99.96,Credit Card,Cancelled,2026-05-08 02:15:00
+TXN-00162,ITEM-00162,Ibrahim Okafor,ibrahim.okafor162@example.com,Mechanical Keyboard,Electronics,3,79.99,239.97,Debit Card,Shipped,2026-05-09 08:15:00
+TXN-00163,ITEM-00163,Joy Eze,joy.eze163@example.com,USB-C Charger,Electronics,1,19.99,19.99,PayPal,Completed,2026-05-09 23:15:00
+TXN-00164,ITEM-00164,Peter Nwosu,peter.nwosu164@example.com,Laptop Stand,Office,2,34.99,69.98,Bank Transfer,Completed,2026-05-10 20:15:00
+TXN-00165,ITEM-00165,Halima Bello,halima.bello165@example.com,Notebook,Stationery,1,8.5,8.5,Apple Pay,Completed,2026-05-11 05:15:00
+TXN-00166,ITEM-00166,Brian Lawal,brian.lawal166@example.com,Desk Lamp,Office,3,29.99,89.97,Credit Card,Pending,2026-05-12 00:15:00
+TXN-00167,ITEM-00167,Ruth Obi,ruth.obi167@example.com,Water Bottle,Home,4,15.0,60.0,Debit Card,Cancelled,2026-05-13 04:15:00
+TXN-00168,ITEM-00168,Tunde Abdullahi,tunde.abdullahi168@example.com,Backpack,Accessories,4,49.99,199.96,PayPal,Shipped,2026-05-13 14:15:00
+TXN-00169,ITEM-00169,Linda Brown,linda.brown169@example.com,Bluetooth Speaker,Electronics,3,59.99,179.97,Bank Transfer,Completed,2026-05-14 12:15:00
+TXN-00170,ITEM-00170,Frank Carter,frank.carter170@example.com,Phone Case,Accessories,2,12.99,25.98,Apple Pay,Completed,2026-05-15 07:15:00
+TXN-00171,ITEM-00171,Rose Ali,rose.ali171@example.com,Running Shoes,Fashion,5,89.99,449.95,Credit Card,Completed,2026-05-16 02:15:00
+TXN-00172,ITEM-00172,Usman Thomas,usman.thomas172@example.com,Cotton T-Shirt,Fashion,3,22.5,67.5,Debit Card,Pending,2026-05-17 01:15:00
+TXN-00173,ITEM-00173,Caroline Adams,caroline.adams173@example.com,Coffee Mug,Home,5,11.99,59.95,PayPal,Cancelled,2026-05-17 21:15:00
+TXN-00174,ITEM-00174,George Okafor,george.okafor174@example.com,Power Bank,Electronics,3,39.99,119.97,Bank Transfer,Shipped,2026-05-18 16:15:00
+TXN-00175,ITEM-00175,Maryam Eze,maryam.eze175@example.com,Sunglasses,Accessories,1,45.0,45.0,Apple Pay,Completed,2026-05-19 11:15:00
+TXN-00176,ITEM-00176,Henry Nwosu,henry.nwosu176@example.com,Desk Organizer,Office,1,18.75,18.75,Credit Card,Completed,2026-05-20 03:15:00
+TXN-00177,ITEM-00177,Ifeoma Bello,ifeoma.bello177@example.com,Pen Set,Stationery,4,6.99,27.96,Debit Card,Completed,2026-05-21 01:15:00
+TXN-00178,ITEM-00178,Abubakar Lawal,abubakar.lawal178@example.com,Headphones,Electronics,5,69.99,349.95,PayPal,Pending,2026-05-21 15:15:00
+TXN-00179,ITEM-00179,Sharon Obi,sharon.obi179@example.com,Travel Pillow,Travel,1,27.5,27.5,Bank Transfer,Cancelled,2026-05-22 18:15:00
+TXN-00180,ITEM-00180,Kelvin Abdullahi,kelvin.abdullahi180@example.com,LED Strip Lights,Home,3,21.99,65.97,Apple Pay,Shipped,2026-05-23 06:15:00
+TXN-00181,ITEM-00181,Hadiza Brown,hadiza.brown181@example.com,Wireless Mouse,Electronics,3,24.99,74.97,Credit Card,Completed,2026-05-23 21:15:00
+TXN-00182,ITEM-00182,Robert Carter,robert.carter182@example.com,Mechanical Keyboard,Electronics,4,79.99,319.96,Debit Card,Completed,2026-05-24 20:15:00
+TXN-00183,ITEM-00183,Nneka Ali,nneka.ali183@example.com,USB-C Charger,Electronics,1,19.99,19.99,PayPal,Completed,2026-05-25 23:15:00
+TXN-00184,ITEM-00184,Sadiq Thomas,sadiq.thomas184@example.com,Laptop Stand,Office,5,34.99,174.95,Bank Transfer,Pending,2026-05-26 17:15:00
+TXN-00185,ITEM-00185,Angela Adams,angela.adams185@example.com,Notebook,Stationery,5,8.5,42.5,Apple Pay,Cancelled,2026-05-27 11:15:00
+TXN-00186,ITEM-00186,Chukwuemeka Okafor,chukwuemeka.okafor186@example.com,Desk Lamp,Office,2,29.99,59.98,Credit Card,Shipped,2026-05-28 00:15:00
+TXN-00187,ITEM-00187,Mariam Eze,mariam.eze187@example.com,Water Bottle,Home,3,15.0,45.0,Debit Card,Completed,2026-05-28 19:15:00
+TXN-00188,ITEM-00188,Stephen Nwosu,stephen.nwosu188@example.com,Backpack,Accessories,3,49.99,149.97,PayPal,Completed,2026-05-29 12:15:00
+TXN-00189,ITEM-00189,Peace Bello,peace.bello189@example.com,Bluetooth Speaker,Electronics,1,59.99,59.99,Bank Transfer,Completed,2026-05-30 09:15:00
+TXN-00190,ITEM-00190,Oluwaseun Lawal,oluwaseun.lawal190@example.com,Phone Case,Accessories,1,12.99,12.99,Apple Pay,Pending,2026-05-31 01:15:00
+TXN-00191,ITEM-00191,Rebecca Obi,rebecca.obi191@example.com,Running Shoes,Fashion,4,89.99,359.96,Credit Card,Cancelled,2026-06-01 03:15:00
+TXN-00192,ITEM-00192,Ismail Abdullahi,ismail.abdullahi192@example.com,Cotton T-Shirt,Fashion,2,22.5,45.0,Debit Card,Shipped,2026-06-01 20:15:00
+TXN-00193,ITEM-00193,Patricia Brown,patricia.brown193@example.com,Coffee Mug,Home,3,11.99,35.97,PayPal,Completed,2026-06-02 20:15:00
+TXN-00194,ITEM-00194,Emmanuel Carter,emmanuel.carter194@example.com,Power Bank,Electronics,2,39.99,79.98,Bank Transfer,Completed,2026-06-03 16:15:00
+TXN-00195,ITEM-00195,Khadija Ali,khadija.ali195@example.com,Sunglasses,Accessories,3,45.0,135.0,Apple Pay,Completed,2026-06-04 06:15:00
+TXN-00196,ITEM-00196,Andrew Thomas,andrew.thomas196@example.com,Desk Organizer,Office,3,18.75,56.25,Credit Card,Pending,2026-06-04 21:15:00
+TXN-00197,ITEM-00197,Amaka Adams,amaka.adams197@example.com,Pen Set,Stationery,4,6.99,27.96,Debit Card,Cancelled,2026-06-05 23:15:00
+TXN-00198,ITEM-00198,Bashir Okafor,bashir.okafor198@example.com,Headphones,Electronics,4,69.99,279.96,PayPal,Shipped,2026-06-06 16:15:00
+TXN-00199,ITEM-00199,Susan Eze,susan.eze199@example.com,Travel Pillow,Travel,3,27.5,82.5,Bank Transfer,Completed,2026-06-07 07:15:00
+TXN-00200,ITEM-00200,Uche Nwosu,uche.nwosu200@example.com,LED Strip Lights,Home,4,21.99,87.96,Apple Pay,Completed,2026-06-08 10:15:00
